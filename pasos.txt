@@ -1,2 +1,5 @@
-paso 1: consultar la versión del servicio cloud
-paso 2: escribir "init 6"
+paso 3. escribir uname -a
+paso 4. bug name: <darwin>
+paso 5. correo: <darwin78@hotmail.com>
+
+
